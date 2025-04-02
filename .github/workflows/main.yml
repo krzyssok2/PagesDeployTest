@@ -1,9 +1,9 @@
-name: Deploy to Github Pages
+name: Deploy to Github Pages test
 
 on:
   push:
     branches:
-    - main
+    - master
 
 jobs:
   build:
